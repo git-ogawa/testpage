@@ -96,7 +96,7 @@ dt{
   /*:font-weight : bold;*/
 
   margin-bottom : 10px;
-   
+
   border-bottom-width : 1px;
   border-bottom-style : solid;
   border-bottom-color : #666666;
@@ -110,7 +110,7 @@ dt{
   padding-bottom : 2px;
 }
 
-dd{  
+dd{
   font-size : 100%;
   line-height : 1.8;
   margin-bottom : 15px;
@@ -175,39 +175,3 @@ code {
   }
 
 
-.port1 {
-  background-color: #ffe8f8;
-}
-
-.port2 {
-  background-color: #fff0e8;
-}
-
-.port3 {
-  background-color: #ffffe8
-}
-
-.port4 {
-  background-color: #f0ffe8;
-}
-
-
-.port5 {
-  background-color: #e0fff0;
-}
-
-.port6 {
-  background-color: #e0f8ff;
-}
-
-.port7 {
-  background-color: #e8f0ff;
-}
-
-.port8 {
-  background-color: #f8e8ff;
-}
-
-.portJ {
-  background-color: #ffe0ff;
-}
